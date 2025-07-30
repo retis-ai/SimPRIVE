@@ -7,6 +7,11 @@ categories: [research, academic]
 tags: [jekyll, markdown, academic-paper]
 ---
 
+<div class="hero">
+  <h1>Title of the Academic Paper</h1>
+  <p class="lead">Federico Nesti · July 30, 2025</p>
+</div>
+---
 # SimPRIVE
 
 TODO introduction to SimPRIVE
