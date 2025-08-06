@@ -43,8 +43,8 @@ TODO: Add brief explanation of what SimPRIVE is.
 ## 📸 Screenshots
 
 <div class="gallery">
-  <img src="/assets/images/simprive1.png" alt="SimPRIVE screenshot 1" width="45%">
-  <img src="/assets/images/simprive2.png" alt="SimPRIVE screenshot 2" width="45%">
+  <img src="/docs/images/image008.png" alt="SimPRIVE screenshot 1" width="45%">
+  <img src="/docs/images/hosp_1.png" alt="SimPRIVE screenshot 2" width="45%">
 </div>
 
 ---
