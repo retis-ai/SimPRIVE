@@ -79,7 +79,56 @@ TODO: Add brief explanation of what SimPRIVE is.
 
 ### 🔄 ROS 2 Side
 
-1. Launch the ROS 2 TCP server with:
-   ```bash
-   ros2 launch rosbridge_server rosbridge_websocket_launch.xml
+1. Launch the ROS 2 TCP server:
 
+    ```bash
+    ros2 launch rosbridge_server rosbridge_websocket_launch.xml
+    ```
+
+2. Ensure a ROS node is publishing to `/odom`.
+3. Click **PLAY** in Unreal Engine – everything should work!
+
+---
+
+## 📚 Citation
+
+To cite this work, use the following BibTeX entry:
+
+<pre>
+@article{example,
+  title={Title of the Academic Paper},
+  author={Nesti, Federico},
+  journal={Journal Name},
+  volume={XX},
+  number={YY},
+  pages={ZZZ--ZZZ},
+  year={2025},
+  publisher={Publisher},
+  doi={10.1234/example.doi}
+}
+</pre>
+
+---
+
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.video-container iframe, .video-container object, .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+</style>
