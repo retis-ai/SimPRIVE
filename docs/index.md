@@ -8,8 +8,8 @@ tags: [jekyll, markdown, academic-paper]
 ---
 
 <div class="text-center">
-  <h1>Title of the Academic Paper</h1>
-  <p class="lead">Subtitle or Short Description</p>
+  <h1>SimPRIVE</h1>
+  <p class="lead">a **Sim**ulation framework for **P**hysical **R**obot **I**nteraction with **V**irtual **E**nvironments</p>
 </div>
 
 ---
