@@ -9,7 +9,7 @@ tags: [jekyll, markdown, academic-paper]
 
 <div class="text-center">
   <h1>SimPRIVE</h1>
-  <p class="lead">a **Sim**ulation framework for **P**hysical **R**obot **I**nteraction with **V**irtual **E**nvironments</p>
+  <p class="lead">a <b>Sim</b>ulation framework for **P**hysical **R**obot **I**nteraction with **V**irtual **E**nvironments</p>
 </div>
 
 ---
