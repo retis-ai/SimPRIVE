@@ -24,7 +24,7 @@ SimPRIVE is a flexible simulation framework designed to let physical robots in t
 
 ---
 <div style="text-align: center;">
-  <img src="/docs/images/Immagine1.png" alt="SimPRIVE Overview" style="max-width: 1%; height: auto;"/>
+  <img src="images/Immagine1.png" alt="SimPRIVE Overview" style="max-width: 1%; height: auto;"/>
   <p style="font-style: italic; font-size: 0.9em;">Figure 1: SimPRIVE platform architecture and workflow overview.</p>
 </div>
 
@@ -55,10 +55,10 @@ Check out our research on simulators at Retis Lab!
 ## 📸 Screenshots
 
 <div class="gallery">
-  <img src="/docs/images/image008.png" alt="SimPRIVE screenshot 1" width="45%">
-  <img src="/docs/images/hosp_1.png" alt="SimPRIVE screenshot 2" width="45%">
-  <img src="/docs/images/station_3.png" alt="SimPRIVE screenshot 3" width="45%">
-  <img src="/docs/images/warehouse_4.png" alt="SimPRIVE screenshot 4" width="45%">
+  <img src="images/image008.png" alt="SimPRIVE screenshot 1" width="45%">
+  <img src="images/hosp_1.png" alt="SimPRIVE screenshot 2" width="45%">
+  <img src="images/station_3.png" alt="SimPRIVE screenshot 3" width="45%">
+  <img src="images/warehouse_4.png" alt="SimPRIVE screenshot 4" width="45%">
 </div>
 
 ---
