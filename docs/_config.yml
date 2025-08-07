@@ -1,0 +1,5 @@
+title: SimPRIVE
+description: "Simulated Platforms for Robotic Integration and Validation in Virtual Environments"
+baseurl: "/SimPRIVE"
+markdown: kramdown
+theme: minima
