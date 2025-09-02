@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title of the Academic Paper"
+title: "SimPRIVE"
 author: "Federico Nesti"
 date: 2025-07-30
 categories: [research, academic]
@@ -24,7 +24,7 @@ SimPRIVE is a flexible simulation framework designed to let physical robots in t
 
 ---
 <div style="text-align: center;">
-  <img src="images/Immagine1.png" alt="SimPRIVE Overview" style="max-width: 1%; height: auto;"/>
+  <img src="images/Immagine1.png" alt="SimPRIVE Overview" style="max-width: 20%; height: auto;"/>
   <p style="font-style: italic; font-size: 0.9em;">Figure 1: SimPRIVE platform architecture and workflow overview.</p>
 </div>
 
@@ -47,6 +47,13 @@ Check out our research on simulators at Retis Lab!
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<div class="video-container">
+  <video width="560" height="315" controls>
+    images/short_demo.mp4
+  </video>
+</div>
+
 
 > _Watch the demo above showing SimPRIVE in action._
 
