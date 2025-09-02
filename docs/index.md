@@ -44,13 +44,13 @@ Check out our research on simulators at Retis Lab!
 
 ## 🎬 Demo
 
-<div class="video-container">
+<!--div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
-</div>
+</div-->
 
 <div class="video-container">
   <video width="560" height="315" controls>
-    images/short_demo.mp4
+    images/short_demo_compressed.mp4
   </video>
 </div>
 
