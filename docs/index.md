@@ -77,8 +77,6 @@ For UE, it is recommended to use a Windows 11 machine and download UE5.2.
 For ROS2, it is recommended to use Ubuntu 22 and ROS2 Humble.
 
 
-- **[rosbridge_suite](https://github.com/tsender/rosbridge_suite/tree/ros2)**
-
 ---
 ### ⚙️ UE5 setup
 
@@ -106,7 +104,7 @@ Note: this version only supports messages of type `nav_msgs/Odometry`. For addit
 
 ---
 ### 🔄 ROS 2 Setup
-
+Install **[rosbridge_suite](https://github.com/tsender/rosbridge_suite/tree/ros2)**
 1. Launch the ROS 2 TCP server:
 
     ```bash
