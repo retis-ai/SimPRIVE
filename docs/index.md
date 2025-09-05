@@ -34,18 +34,13 @@ SimPRIVE is a flexible simulation framework designed to let physical robots in t
 
 🐙 [Code Repository](https://github.com/retis-ai/SimPRIVE/)
 
-Check out our research on simulators at Retis Lab!
-- [TrainSim](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10205499)
-- [SynDRA dataset](https://syndra.retis.santannapisa.it/)
-- [Carla-GeAR](https://carlagear.retis.santannapisa.it/)
-
-
+###Check out our research on simulators at Retis Lab!
 <div class="research-cards">
   <div class="research-card">
     <img src="images/trainsim_thumb.png" alt="TrainSim">
     <div class="card-content">
       <h4><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10205499">TrainSim</a></h4>
-      <p>Simulation framework for training autonomous systems</p>
+      <p>Simulation framework for railway scenarios</p>
     </div>
   </div>
   
@@ -53,7 +48,7 @@ Check out our research on simulators at Retis Lab!
     <img src="images/syndra_thumb.png" alt="SynDRA dataset">
     <div class="card-content">
       <h4><a href="https://syndra.retis.santannapisa.it/">SynDRA dataset</a></h4>
-      <p>Synthetic dataset for robotic applications</p>
+      <p>Synthetic dataset for railway applications</p>
     </div>
   </div>
   
@@ -61,7 +56,7 @@ Check out our research on simulators at Retis Lab!
     <img src="images/carlagear_thumb.png" alt="Carla-GeAR">
     <div class="card-content">
       <h4><a href="https://carlagear.retis.santannapisa.it/">Carla-GeAR</a></h4>
-      <p>Advanced simulation platform</p>
+      <p>A CARLA-based tool and dataset for neural network adversarial robustness evaluation</p>
     </div>
   </div>
 </div>
