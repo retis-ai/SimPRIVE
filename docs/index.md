@@ -40,6 +40,32 @@ Check out our research on simulators at Retis Lab!
 - [Carla-GeAR](https://carlagear.retis.santannapisa.it/)
 
 
+<div class="research-cards">
+  <div class="research-card">
+    <img src="images/trainsim_thumb.png" alt="TrainSim">
+    <div class="card-content">
+      <h4><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10205499">TrainSim</a></h4>
+      <p>Simulation framework for training autonomous systems</p>
+    </div>
+  </div>
+  
+  <div class="research-card">
+    <img src="images/syndra_thumb.png" alt="SynDRA dataset">
+    <div class="card-content">
+      <h4><a href="https://syndra.retis.santannapisa.it/">SynDRA dataset</a></h4>
+      <p>Synthetic dataset for robotic applications</p>
+    </div>
+  </div>
+  
+  <div class="research-card">
+    <img src="images/carlagear_thumb.png" alt="Carla-GeAR">
+    <div class="card-content">
+      <h4><a href="https://carlagear.retis.santannapisa.it/">Carla-GeAR</a></h4>
+      <p>Advanced simulation platform</p>
+    </div>
+  </div>
+</div>
+
 ---
 
 ## 🎬 Demo
@@ -151,5 +177,75 @@ To cite this work, use the following BibTeX entry:
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
+}
+  /* Option 1 styles */
+.research-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.research-item {
+  text-align: center;
+}
+
+.research-item a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.research-thumb {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  transition: transform 0.2s;
+}
+
+.research-thumb:hover {
+  transform: scale(1.05);
+}
+
+/* Option 2 styles */
+.research-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.research-card {
+  flex: 1;
+  min-width: 250px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+}
+
+.research-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.research-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card-content h4 {
+  margin: 0 0 10px 0;
+}
+
+.card-content a {
+  text-decoration: none;
+  color: #0066cc;
 }
 </style>
