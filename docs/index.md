@@ -103,7 +103,7 @@ For ROS2, it is recommended to use Ubuntu 22 and ROS2 Humble.
 
 1. Create a new UE5.2 project (use any desired template).
 2. Download and place **SimPRIVE plugin** in your project's `Plugins` folder.
-3. Download and place **[ROSIntegration plugin](https://github.com/code-iai/ROSIntegration)** in `Plugins`.
+3. Download and place UE5-compatible **[ROSIntegration plugin](https://github.com/retis-ai/ROSIntegration)** in `Plugins`.
 4. Enable both plugins from the UE editor (Edit->Plugins). Restart if necessary.
 5. Edit the plugin JSON config (`SimPRIVE/Content/Config/IPConfig.json`) to set the correct ROS2 **IP** and **PORT**. This must match the IP and port of your ROSBridge setup. 
 6. Go to `Project Settings → Maps & Modes → Game Instance Class` and set it to `SimPRIVEGameInstance`.
@@ -111,7 +111,7 @@ For ROS2, it is recommended to use Ubuntu 22 and ROS2 Humble.
 #### 🌍 Level Setup
 
 1. Create a new level.
-2. **Set custom collision presets** (important for interactions). TODO TODO
+2. Set collision for each object of the environment. Enable "Generate Overlap Events" and **Set custom collision presets** (important for interactions). The collisions have to be enabled (Query and Physics), while the Collision Responses must be set to "Overlap" for every channel except for the Visibility Trace Response (Block).
 3. Add the **Rover** object and define the height in the Details panel. The static mesh assigned by default is the AgileX Scout Mini but it can be customized.
 4. Add the **SpawningManager**. You must create a few splines (`Add spline` button). These splines define the region where the objects are going to spawn when the reset topic is published in.
 5. Fill in the Static Mesh Library with meshes of your choice to allow object spawning; fill in the Skeletal Mesh and the Animation Libraries with assets of your choice to spawn animated objects.
