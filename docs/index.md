@@ -34,7 +34,7 @@ SimPRIVE is a flexible simulation framework designed to let physical robots in t
 
 🐙 [Code Repository](https://github.com/retis-ai/SimPRIVE/)
 
-###Check out our research on simulators at Retis Lab!
+### Check out our research on simulators at Retis Lab!
 <div class="research-cards">
   <div class="research-card">
     <img src="images/trainsim_thumb.png" alt="TrainSim">
@@ -70,7 +70,7 @@ SimPRIVE is a flexible simulation framework designed to let physical robots in t
 </div-->
 
 <div style="text-align: center; margin: 20px 0;">
-  <video width="560" height="315" controls src="images/short_demo_compressed.mp4" style="max-width: 100%; height: auto;">
+  <video width="560" height="315" controls src="images/SimPRIVE_demo_compressed.mp4" style="max-width: 100%; height: auto;">
     Your browser does not support the video tag.
   </video>
 </div>
