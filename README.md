@@ -30,7 +30,11 @@ We welcome collaborations on extensions, new features, and specific applications
 ## 🎬 Demo
 
 > _Watch the demo above showing SimPRIVE in action._
-<video src="docs/images/SimPRIVE_demo_compressed.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/a83aa968-7376-43cc-b81d-c29ef6e9e44e
+
+
 
 ---
 
