@@ -4,7 +4,7 @@
 **Sim**ulation framework for **P**hysical **R**obot **I**nteraction with **V**irtual **E**nvironments
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.21454-b31b1b.svg)](https://arxiv.org/abs/2504.21454)  
-https://github.com/retis-ai/SimPRIVE/
+
 
 ---
 
@@ -18,10 +18,6 @@ We welcome collaborations on extensions, new features, and specific applications
 
 ---
 
-## 📄 Research
-
-- [Read the pre-print](https://arxiv.org/abs/2504.21454)
-- [Code Repository](https://github.com/retis-ai/SimPRIVE/)
 
 ### Related Projects from Retis Lab
 
@@ -34,7 +30,7 @@ We welcome collaborations on extensions, new features, and specific applications
 ## 🎬 Demo
 
 > _Watch the demo above showing SimPRIVE in action._
-<video src="docs/images/short_demo_compressed.mp4" controls width="600"></video>
+<video src="docs/images/SimPRIVE_demo_compressed.mp4" controls width="600"></video>
 
 ---
 
