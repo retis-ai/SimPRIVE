@@ -35,11 +35,12 @@ We welcome collaborations on extensions, new features, and specific applications
 
 > _Watch the demo above showing SimPRIVE in action._
 
+
 ---
 
 ## 🖼️ Screenshots
 
-(Screenshots can be added here using Markdown image syntax if available.)
+![Alt text](docs/images/station_3.png)
 
 ---
 
