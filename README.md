@@ -1,20 +1,18 @@
 
+
 # SimPRIVE
 
-**Sim**ulation framework for **P**hysical **R**obot **I**nteraction with **V**irtual **E**nvironments
+
+## 🧠 Overview
+
+**SimPRIVE** (**Sim**ulation framework for **P**hysical **R**obot **I**nteraction with **V**irtual **E**nvironments) is a flexible simulation framework designed to let physical robots interact with virtual environments using a vehicle-in-the-loop simulation paradigm. It supports any ROS2-enabled robot.
+
+> 📢 SimPRIVE was accepted for publication at the 2025 IEEE Intelligent Transportation Systems Conference.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.21454-b31b1b.svg)](https://arxiv.org/abs/2504.21454)  
 
 
----
-
-## 🧠 Overview
-
-**SimPRIVE** is a flexible simulation framework designed to let physical robots interact with virtual environments using a vehicle-in-the-loop simulation paradigm. It supports any ROS2-enabled robot.
-
-> 📢 SimPRIVE was accepted for publication at the 2025 IEEE Intelligent Transportation Systems Conference.
-
-We welcome collaborations on extensions, new features, and specific applications!
+Don't hesitate to get in touch for modifications, extensions, new features and customizations!
 
 ---
 
