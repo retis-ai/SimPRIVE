@@ -34,14 +34,23 @@ We welcome collaborations on extensions, new features, and specific applications
 ## 🎬 Demo
 
 > _Watch the demo above showing SimPRIVE in action._
-
+<video src="docs/images/short_demo_compressed.mp4" controls width="600"></video>
 
 ---
 
 ## 🖼️ Screenshots
 
-![Alt text](docs/images/station_3.png)
 
+<table>
+  <tr>
+    <td><img src="docs/images/hosp_1.png" width="400"/></td>
+    <td><img src="docs/images/station_3.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/warehouse_4.png" width="400"/></td>
+    <td><img src="docs/images/image008.png" width="400"/></td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Installation Instructions
