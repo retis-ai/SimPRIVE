@@ -129,7 +129,7 @@ Install **[rosbridge_suite](https://github.com/tsender/rosbridge_suite/tree/ros2
 1. Launch the ROS 2 TCP server:
 
     ```bash
-    ros2 launch rosbridge_server rosbridge_websocket_launch.xml
+    ros2 launch rosbridge_server rosbridge_tcp_launch.xml
     ```
 
 2. Ensure a ROS node is publishing to `/odom`.
