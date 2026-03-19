@@ -29,7 +29,7 @@ SimPRIVE is a flexible simulation framework designed to let physical robots in t
 </div>
 
 ## 📄 Research
-📎 [Read the official paper]([https://arxiv.org/abs/2504.21454](https://ieeexplore.ieee.org/document/11423662))
+📎 [Read the official paper](https://ieeexplore.ieee.org/document/11423662)
 
 📎 [Read the pre-print](https://arxiv.org/abs/2504.21454)
 
